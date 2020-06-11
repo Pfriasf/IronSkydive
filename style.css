@@ -135,3 +135,25 @@ h5 {
     width: 250px;
     height: 180px;
 }
+
+.footer {
+    font-size: 1.9em;
+    text-align: center;
+}
+
+.address {
+    font-style: normal;
+    font-size: 0.8em;
+}
+
+footer a {
+    color: rgb(67, 163, 230);
+    text-decoration: none;
+
+}
+
+footer ul {
+    color: rgb(67, 163, 230);
+    text-decoration: none;
+    list-style-type: none;
+}
