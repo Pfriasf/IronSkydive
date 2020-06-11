@@ -84,7 +84,7 @@ h5 {
     font-size: 2.5em;
 }
 
-#general-information {
+.dark-background {
     background-color: rgb(25, 33, 41);
     color: white;
 }
@@ -116,4 +116,22 @@ h5 {
     width: 125px;
     height: auto;
 
+}
+
+#team .section-text {
+    font-size: 1.9em;
+    text-align: center;
+
+}
+
+#team .memeber-name {
+    font-size: 1.5em;
+    font-weight: 700;
+
+
+}
+
+#team img {
+    width: 250px;
+    height: 180px;
 }
