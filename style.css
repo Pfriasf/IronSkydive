@@ -99,10 +99,19 @@ h5 {
     color: white;
 }
 
+.container {
+
+    width: 1200px;
+    margin: 0 auto;
+    padding: 75px 0px;
+
+}
+
 .text {
     font-size: 2em;
     font-weight: 100;
     text-align: center;
+    margin: 20px 0px;
 }
 
 .link-btn {
