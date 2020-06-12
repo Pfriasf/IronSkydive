@@ -81,11 +81,13 @@ h5 {
     background-repeat: no-repeat;
     background-size: cover;
     height: 650px;
+    padding-top: 50px;
 }
 
 .header h2 {
     color: white;
     text-shadow: #020819 8px -20px 9px;
+
 }
 
 .quote {
