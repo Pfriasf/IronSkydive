@@ -55,6 +55,7 @@ h5 {
 .nav-bar {
     background-color: rgb(25, 33, 41);
     color: white;
+    padding: 14px 0px;
 }
 
 .nav-bar a {
@@ -63,9 +64,16 @@ h5 {
     font-size: 2em;
 }
 
-.nav-bar ul {
-    list-style-type: none;
+.nav-bar-ul {
+    width: 1200px;
+    margin: 0 auto;
 }
+
+.nav-bar-ul li {
+    list-style-type: none;
+    text-align: center;
+}
+
 
 .header {
     background-image: url("https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg");
