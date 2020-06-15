@@ -183,11 +183,14 @@ td {
 .footer {
   font-size: 1.9em;
   text-align: center;
+  padding: 40px 100px;
+  margin-bottom: 25px;
 }
 
 .address {
   font-style: normal;
   font-size: 0.8em;
+  margin-bottom: 30px;
 }
 
 footer a {
@@ -199,4 +202,5 @@ footer ul {
   color: rgb(67, 163, 230);
   text-decoration: none;
   list-style-type: none;
+  padding: 0;
 }
