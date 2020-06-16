@@ -139,7 +139,12 @@ h5 {
   text-decoration: none;
   padding: 10px 30px;
 }
-
+#structure div {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
 .service-box {
   font-size: 1.7em;
   text-align: center;
