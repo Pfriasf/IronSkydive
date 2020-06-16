@@ -221,6 +221,9 @@ td {
   text-align: center;
   padding: 40px 100px;
   margin-bottom: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .address {
@@ -239,4 +242,9 @@ footer ul {
   text-decoration: none;
   list-style-type: none;
   padding: 0;
+}
+
+.map-frame {
+  height: 375px;
+  width: 60%;
 }
